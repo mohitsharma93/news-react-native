@@ -1,0 +1,1 @@
+This is expo app for `React-native-script` 
